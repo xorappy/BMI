@@ -144,7 +144,7 @@ namespace mmmmmm
             {
                 Console.WriteLine($"Welcome to the BMI Calculator, {username}!");
 
-                Console.Write("Please select your measurement system: ");
+                Console.WriteLine("Please select your measurement system: ");
                 Console.WriteLine("1. Imperial");
                 Console.WriteLine("2. Metric");
 
